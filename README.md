@@ -69,8 +69,5 @@
 
  ### ⚙️ Efficiency
   - The 100% answer rate reflects strong operational management.
-  - The 68-second average speed of answer is slightly above industry standards and may be contributing to the neutral
- 
- 
- satisfaction score of 3.0/5.
+  - The 68-second average speed of answer is slightly above industry standards and may be contributing to the neutral        satisfaction score of 3.0/5.
 
